@@ -1,0 +1,5 @@
+The objective is to use the loan data to build a model that can predict the loan status (whether or not a loan will be fully paid or charged off) and interpret the results to find the factors which affect the result. Such a predictive model could help LendingClub investors make better-informed investment decisions.
+
+We want to develop a model that is accurate and interpretable.
+
+This problem is a binary classification as I have only two classes to predic
